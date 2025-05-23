@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Aspiring Bioinformatician/ Biological Data Analyst <br>🎓 BSc Biomedical Science - Northumbria University Newcastle <br>
+💻 Trainee Bioinformatician/ Biological Data Analyst <br>🎓 BSc Biomedical Science - Northumbria University Newcastle <br>
 
 
 # 💻 Tech Stack:
